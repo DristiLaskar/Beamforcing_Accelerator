@@ -1,0 +1,5 @@
+@"
+*.vvp
+*.vcd
+verif/logs/
+"@ | Out-File -Encoding ascii .gitignore
